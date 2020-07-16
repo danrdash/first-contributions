@@ -33,6 +33,7 @@
 - [Aditya Gupta] (https://github.com/6aditya8)
 - [Francesc Pons] (https://github.com/fponsar)
 - [Mudasir Issah] (https://github.com/danladi123)
+- [danrdash] (https://github.com/danrdash)
 - [Roshan Raj] (https://github.com/roshan-raj)
 - [Danial Beg] (https://github.com/DanialBeg)
 - [Daniela Arenas]
